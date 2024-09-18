@@ -47,6 +47,9 @@ Suport Sensor Llum LDR (Light Sensor) |![](Imatges/LDR.png) | [LDR L](STL_mClonS
 Escaire |![](Imatges/1L.png) | [Escaire](STL_mClonSTEMFIE/1L.stl)
 Tensor 4 |![](Imatges/Brace4.png) | [Tensor 4](STL_mClonSTEMFIE/BraceSTRERRBU04x01x00.25-SPN-BRC-0003.stl)
 
+## QR
+
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FmClon-Stemfie&s=6&e=m"/>
 
 ## Llicència
 
